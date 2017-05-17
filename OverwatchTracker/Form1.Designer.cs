@@ -380,9 +380,11 @@
             // 
             // tableLayoutPanel6
             // 
-            this.tableLayoutPanel6.ColumnCount = 2;
-            this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tableLayoutPanel6.ColumnCount = 4;
+            this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
+            this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
+            this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
+            this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.tableLayoutPanel6.Controls.Add(this.lblWinRatio, 1, 3);
             this.tableLayoutPanel6.Controls.Add(this.lblGamesPlayed, 1, 0);
             this.tableLayoutPanel6.Controls.Add(this.lblGamesLost, 1, 2);
@@ -406,7 +408,7 @@
             // 
             this.lblWinRatio.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.lblWinRatio.AutoSize = true;
-            this.lblWinRatio.Location = new System.Drawing.Point(300, 75);
+            this.lblWinRatio.Location = new System.Drawing.Point(151, 75);
             this.lblWinRatio.Name = "lblWinRatio";
             this.lblWinRatio.Size = new System.Drawing.Size(10, 13);
             this.lblWinRatio.TabIndex = 0;
@@ -416,7 +418,7 @@
             // 
             this.lblGamesPlayed.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.lblGamesPlayed.AutoSize = true;
-            this.lblGamesPlayed.Location = new System.Drawing.Point(300, 5);
+            this.lblGamesPlayed.Location = new System.Drawing.Point(151, 5);
             this.lblGamesPlayed.Name = "lblGamesPlayed";
             this.lblGamesPlayed.Size = new System.Drawing.Size(10, 13);
             this.lblGamesPlayed.TabIndex = 0;
@@ -426,7 +428,7 @@
             // 
             this.lblGamesLost.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.lblGamesLost.AutoSize = true;
-            this.lblGamesLost.Location = new System.Drawing.Point(300, 51);
+            this.lblGamesLost.Location = new System.Drawing.Point(151, 51);
             this.lblGamesLost.Name = "lblGamesLost";
             this.lblGamesLost.Size = new System.Drawing.Size(10, 13);
             this.lblGamesLost.TabIndex = 0;
@@ -436,7 +438,7 @@
             // 
             this.lblGamesWon.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.lblGamesWon.AutoSize = true;
-            this.lblGamesWon.Location = new System.Drawing.Point(300, 28);
+            this.lblGamesWon.Location = new System.Drawing.Point(151, 28);
             this.lblGamesWon.Name = "lblGamesWon";
             this.lblGamesWon.Size = new System.Drawing.Size(10, 13);
             this.lblGamesWon.TabIndex = 0;
@@ -447,7 +449,7 @@
             this.label14.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.label14.AutoEllipsis = true;
             this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(216, 5);
+            this.label14.Location = new System.Drawing.Point(67, 5);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(78, 13);
             this.label14.TabIndex = 1;
@@ -459,7 +461,7 @@
             this.label15.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.label15.AutoEllipsis = true;
             this.label15.AutoSize = true;
-            this.label15.Location = new System.Drawing.Point(225, 28);
+            this.label15.Location = new System.Drawing.Point(76, 28);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(69, 13);
             this.label15.TabIndex = 1;
@@ -471,7 +473,7 @@
             this.label16.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.label16.AutoEllipsis = true;
             this.label16.AutoSize = true;
-            this.label16.Location = new System.Drawing.Point(228, 51);
+            this.label16.Location = new System.Drawing.Point(79, 51);
             this.label16.Name = "label16";
             this.label16.Size = new System.Drawing.Size(66, 13);
             this.label16.TabIndex = 1;
@@ -483,7 +485,7 @@
             this.label17.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.label17.AutoEllipsis = true;
             this.label17.AutoSize = true;
-            this.label17.Location = new System.Drawing.Point(239, 75);
+            this.label17.Location = new System.Drawing.Point(90, 75);
             this.label17.Name = "label17";
             this.label17.Size = new System.Drawing.Size(55, 13);
             this.label17.TabIndex = 1;
@@ -936,7 +938,7 @@
             this.tableLayoutPanel5.ColumnCount = 3;
             this.tableLayoutPanel5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 38.58823F));
             this.tableLayoutPanel5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 61.41177F));
-            this.tableLayoutPanel5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 95F));
+            this.tableLayoutPanel5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 97F));
             this.tableLayoutPanel5.Controls.Add(this.btnUpdateDatabase, 0, 0);
             this.tableLayoutPanel5.Controls.Add(this.lblVersion, 2, 0);
             this.tableLayoutPanel5.Controls.Add(this.lblDatafile, 1, 0);
@@ -972,7 +974,7 @@
             // 
             this.lblDatafile.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.lblDatafile.AutoSize = true;
-            this.lblDatafile.Location = new System.Drawing.Point(329, 9);
+            this.lblDatafile.Location = new System.Drawing.Point(328, 9);
             this.lblDatafile.Name = "lblDatafile";
             this.lblDatafile.Size = new System.Drawing.Size(41, 13);
             this.lblDatafile.TabIndex = 8;
