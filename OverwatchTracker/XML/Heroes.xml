@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<HeroList>
+  <Class>
+    <Name>Offense</Name>
+    <Heroes>
+      <Hero>Genji</Hero>
+      <Hero>McCree</Hero>
+      <Hero>Pharah</Hero>
+      <Hero>Reaper</Hero>
+      <Hero>Soldier: 76</Hero>
+      <Hero>Sombra</Hero>
+      <Hero>Tracer</Hero>
+    </Heroes>
+  </Class>
+  <Class>
+    <Name>Defense</Name>
+    <Heroes>
+      <Hero>Bastion</Hero>
+      <Hero>Hanzo</Hero>
+      <Hero>Junkrat</Hero>
+      <Hero>Mei</Hero>
+      <Hero>Torbjörn</Hero>
+      <Hero>Widowmaker</Hero>
+    </Heroes>
+  </Class>
+  <Class>
+    <Name>Tank</Name>
+    <Heroes>
+      <Hero>D.Va</Hero>
+      <Hero>Orisa</Hero>
+      <Hero>Reinhardt</Hero>
+      <Hero>Roadhog</Hero>
+      <Hero>Winston</Hero>
+      <Hero>Zarya</Hero>
+    </Heroes>
+  </Class>
+  <Class>
+    <Name>Support</Name>
+    <Heroes>
+      <Hero>Ana</Hero>
+      <Hero>Lúcio</Hero>
+      <Hero>Mercy</Hero>
+      <Hero>Symmetra</Hero>
+      <Hero>Zenyatta</Hero>
+    </Heroes>
+  </Class>
+</HeroList>

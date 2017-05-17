@@ -1,0 +1,10 @@
+Win/Loss	SR	SR Change	Main Hero	Class	Date
+-	2253	-	-	-	2017-04-26
+Victory	2273	20	Mercy	Support	2017-04-26 20:00:00
+Victory	2297	24	Mercy	Support	2017-04-26 21:00:00
+Victory	2318	21	Mercy	Support	2017-04-26 22:00:00
+Defeat	2294	-24	Mercy	Support	2017-04-27 18:00:00
+Defeat	2268	-26	Mercy	Support	2017-04-27 19:00:00
+Victory	2288	20	Mercy	Support	2017-04-27 20:00:00
+Victory	2304	16	Mercy	Support	2017-04-27 21:00:00
+Victory	2325	21	Mercy	Support	2017-04-27 22:00:00

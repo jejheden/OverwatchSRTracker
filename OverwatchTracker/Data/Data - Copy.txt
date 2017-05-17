@@ -1,0 +1,12 @@
+Win/Loss	SR	Diff	Hero	Class	Date
+-	2253	-	-	-	2017-04-26
+Win	2273	20	Mercy	Support	2017-04-26
+Win	2297	24	Mercy	Support	2017-04-26
+Win	2318	21	Mercy	Support	2017-04-26
+Loss	2294	-24	-	Support	2017-04-27
+Loss	2268	-26	-	Support	2017-04-27
+Win	2288	20	-	-	2017-04-27
+Win	2304	16	-	-	2017-04-27
+Win	2325	21	-	-	2017-04-27
+Win	2350	25	-	-	2017-04-27
+Win	2360	10	-	-	2017-04-29 01:33:09
